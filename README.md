@@ -1,4 +1,4 @@
-<p align='center'><b>The 2018's Day of the Dead Halloween Lua event.</b></p>
+<p align='center'><b>The 2018's and 2021's Day of the Dead Halloween Lua event.</b></p>
 
 → Official thread: https://atelier801.com/topic?f=6&t=878245<br>
 → Wiki: https://transformice.fandom.com/wiki/The_Day_of_the_Dead
@@ -7,3 +7,4 @@
 
 ## Media
 <p align='center'>https://youtu.be/G1XVHKQAkH0<br><a href='https://youtu.be/G1XVHKQAkH0'><img src='https://img.youtube.com/vi/G1XVHKQAkH0/hqdefault.jpg' /></a></p>
+<p align='center'>https://youtu.be/vYogipWxT_Y<br><a href='https://youtu.be/vYogipWxT_Y'><img src='https://img.youtube.com/vi/vYogipWxT_Y/hqdefault.jpg' /></a></p>
