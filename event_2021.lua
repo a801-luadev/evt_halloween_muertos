@@ -178,7 +178,7 @@ local translations = {
 			[7] = "Juuupīīīī! Tu atradi to! Ak manam mirušās peles, liels tev paldies!!!!\n\nTagad visi klausīsies manu satriecošo mūziku!"
 		},
 		close_dialog = "Nospiediet atstarpi lai aizvērtu dialogu.",
-		welcome = "Šī ir <B>Mirušo diena/B>, kur mirušie un dzīvie var ballēties kopā!\n\n~ ~ ~ Kratīsim savus kaulus! ~ ~ ~",
+		welcome = "Šī ir <B>Mirušo diena</B>, kur mirušie un dzīvie var ballēties kopā!\n\n~ ~ ~ Kratīsim savus kaulus! ~ ~ ~",
 		conclusion = "Vaaau! Kas par mīļu ķirbju saldumu tu esi! Tagad spoki var beidzot ballēties un ēst cukuru!!!\n\nPaldies <B>Mirabellai</B> par mirušo atgriešanu mūsu pasaulē, <B>%s</B> par visas maģijas izkodēšanu <B>%s</B> lai uzzīmētu šo visu priekš šī satriecošā notikuma!",
 		failed_colors = "Neļaujiet spokiem jūs nobiedēt, pievērsiet uzmanību krāsām un izdariet to pareizi nākošreiz!",
 	},
